@@ -6,3 +6,5 @@ Categories:
 - Code
 - [[Daily Notes]]
 - Ideas/Misc.
+
+Hash’s
