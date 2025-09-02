@@ -1,4 +1,0 @@
-[[Daily Notes]]
-
-
-#notes

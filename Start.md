@@ -4,5 +4,5 @@ Categories:
 - [[Music]]
 - Entertainment
 - Code
-- [[General Notes]]
+- [[Daily Notes]]
 - Ideas/Misc.
